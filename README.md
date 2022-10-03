@@ -1,2 +1,2 @@
 # insta-page
-Criei a pagina de login do instagram usando HTML e CSS flexbox
+criei a pagina de login do instagram usando html e css
